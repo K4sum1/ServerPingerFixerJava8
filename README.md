@@ -12,3 +12,7 @@ The mod works by increasing the Thread count used for pinging servers. It also c
 <br>
 
 Inspired by: https://github.com/Nixuge/ServerlistBufferFixer
+
+## Compilation
+You will need Java 17 to compile, blame Fabric. Output will work fine with Java 8 though.
+./gradlew build
